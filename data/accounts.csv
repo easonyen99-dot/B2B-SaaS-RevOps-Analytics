@@ -1,0 +1,1069 @@
+﻿account_id,company_name,segment,industry,region,employee_size,customer_since,account_status
+1,Company_00005,Mid-Market,Manufacturing,Taiwan,376,2024-09-23,Churned
+2,Company_00014,Mid-Market,Financial Services,Japan,126,2025-10-28,Churned
+3,Company_00022,SMB,Professional Services,Taiwan,74,2024-07-09,Active
+4,Company_00037,Enterprise,Technology,Taiwan,3840,2025-01-01,Active
+5,Company_00051,SMB,Financial Services,Japan,27,2024-12-02,Churned
+6,Company_00054,SMB,Financial Services,Singapore,76,2025-09-23,Churned
+7,Company_00075,SMB,Healthcare,Hong Kong,39,2025-02-13,Churned
+8,Company_00087,SMB,Healthcare,Taiwan,50,2025-10-19,Churned
+9,Company_00093,SMB,Technology,Japan,99,2025-10-04,Churned
+10,Company_00097,Mid-Market,Financial Services,Hong Kong,267,2026-02-01,Active
+11,Company_00099,SMB,Healthcare,Japan,91,2024-07-21,Active
+12,Company_00120,Mid-Market,Technology,Singapore,346,2024-08-30,Active
+13,Company_00122,SMB,Professional Services,Singapore,22,2024-04-09,Churned
+14,Company_00123,Mid-Market,Technology,Taiwan,244,2026-02-14,Active
+15,Company_00124,SMB,Professional Services,Singapore,33,2025-01-19,Active
+16,Company_00134,Mid-Market,Retail,Hong Kong,339,2025-08-13,Churned
+17,Company_00147,Enterprise,Financial Services,Taiwan,758,2024-11-08,Active
+18,Company_00152,SMB,Technology,Hong Kong,85,2024-09-21,Active
+19,Company_00185,SMB,Healthcare,Hong Kong,37,2024-05-27,Churned
+20,Company_00200,Enterprise,Healthcare,Taiwan,1186,2025-05-03,Churned
+21,Company_00205,SMB,Financial Services,Japan,86,2024-09-23,Churned
+22,Company_00210,Enterprise,Healthcare,Singapore,1181,2024-09-09,Churned
+23,Company_00232,SMB,Technology,Taiwan,33,2024-10-05,Churned
+24,Company_00235,SMB,Financial Services,Singapore,18,2025-04-29,Churned
+25,Company_00238,Mid-Market,Manufacturing,Taiwan,177,2024-05-09,Churned
+26,Company_00244,Mid-Market,Retail,Hong Kong,271,2025-12-20,Churned
+27,Company_00245,SMB,Technology,Taiwan,93,2024-04-04,Churned
+28,Company_00254,Mid-Market,Retail,Hong Kong,398,2024-03-31,Active
+29,Company_00258,SMB,Financial Services,Taiwan,52,2024-03-21,Churned
+30,Company_00270,SMB,Technology,Hong Kong,39,2024-04-29,Active
+31,Company_00285,SMB,Technology,Hong Kong,52,2025-07-05,Active
+32,Company_00286,SMB,Financial Services,Singapore,37,2025-05-06,Active
+33,Company_00290,SMB,Professional Services,Singapore,90,2024-12-21,Churned
+34,Company_00300,Mid-Market,Manufacturing,Japan,168,2025-05-24,Active
+35,Company_00311,SMB,Manufacturing,Singapore,46,2025-03-16,Churned
+36,Company_00318,Mid-Market,Technology,Japan,161,2025-08-04,Churned
+37,Company_00320,Mid-Market,Professional Services,Singapore,184,2025-09-14,Active
+38,Company_00322,Mid-Market,Technology,Singapore,317,2025-04-04,Active
+39,Company_00327,SMB,Healthcare,Japan,63,2024-06-04,Active
+40,Company_00340,Mid-Market,Financial Services,Hong Kong,306,2024-03-17,Churned
+41,Company_00341,Mid-Market,Retail,Singapore,456,2024-04-01,Active
+42,Company_00357,Mid-Market,Financial Services,Japan,191,2024-08-03,Active
+43,Company_00372,Enterprise,Manufacturing,Hong Kong,871,2024-08-23,Active
+44,Company_00375,SMB,Healthcare,Hong Kong,64,2025-07-09,Churned
+45,Company_00380,Mid-Market,Manufacturing,Taiwan,387,2025-10-08,Active
+46,Company_00383,SMB,Retail,Hong Kong,51,2025-09-03,Churned
+47,Company_00389,Enterprise,Professional Services,Taiwan,3711,2025-05-11,Active
+48,Company_00393,SMB,Manufacturing,Hong Kong,62,2024-08-21,Active
+49,Company_00405,Mid-Market,Professional Services,Japan,488,2024-07-12,Churned
+50,Company_00411,Mid-Market,Financial Services,Taiwan,489,2025-12-23,Churned
+51,Company_00425,Enterprise,Financial Services,Singapore,855,2024-09-24,Churned
+52,Company_00445,SMB,Manufacturing,Japan,88,2024-09-19,Churned
+53,Company_00449,SMB,Financial Services,Taiwan,10,2025-03-22,Active
+54,Company_00454,SMB,Financial Services,Singapore,29,2025-11-17,Active
+55,Company_00458,SMB,Financial Services,Hong Kong,75,2025-05-30,Churned
+56,Company_00466,SMB,Financial Services,Singapore,80,2025-03-15,Active
+57,Company_00470,SMB,Professional Services,Singapore,52,2025-08-23,Active
+58,Company_00473,SMB,Professional Services,Hong Kong,48,2025-06-19,Churned
+59,Company_00507,SMB,Healthcare,Taiwan,18,2025-03-12,Active
+60,Company_00510,SMB,Retail,Hong Kong,18,2025-06-06,Churned
+61,Company_00550,Enterprise,Professional Services,Japan,1131,2026-01-14,Churned
+62,Company_00551,SMB,Manufacturing,Singapore,25,2025-08-09,Active
+63,Company_00566,SMB,Manufacturing,Singapore,91,2024-12-21,Churned
+64,Company_00572,SMB,Technology,Singapore,26,2024-04-10,Churned
+65,Company_00592,Enterprise,Healthcare,Taiwan,736,2025-06-22,Churned
+66,Company_00600,SMB,Retail,Hong Kong,21,2025-01-29,Churned
+67,Company_00611,SMB,Professional Services,Singapore,55,2025-01-10,Churned
+68,Company_00621,SMB,Financial Services,Taiwan,14,2024-11-15,Churned
+69,Company_00628,Mid-Market,Manufacturing,Taiwan,179,2024-04-17,Churned
+70,Company_00644,Mid-Market,Healthcare,Japan,292,2024-04-15,Churned
+71,Company_00646,SMB,Healthcare,Taiwan,21,2024-09-03,Churned
+72,Company_00647,SMB,Technology,Taiwan,52,2025-09-26,Churned
+73,Company_00656,SMB,Healthcare,Singapore,57,2025-02-14,Churned
+74,Company_00669,Enterprise,Manufacturing,Singapore,2583,2024-08-09,Churned
+75,Company_00692,SMB,Healthcare,Singapore,29,2025-09-08,Churned
+76,Company_00704,Mid-Market,Financial Services,Japan,337,2025-08-25,Active
+77,Company_00711,Mid-Market,Financial Services,Taiwan,453,2025-05-08,Churned
+78,Company_00733,SMB,Professional Services,Hong Kong,67,2026-02-07,Active
+79,Company_00735,Enterprise,Financial Services,Singapore,1246,2025-10-21,Active
+80,Company_00737,Mid-Market,Manufacturing,Singapore,430,2025-07-11,Active
+81,Company_00749,Mid-Market,Professional Services,Taiwan,239,2025-07-07,Churned
+82,Company_00757,SMB,Professional Services,Hong Kong,18,2024-06-01,Churned
+83,Company_00768,Mid-Market,Manufacturing,Taiwan,126,2025-03-21,Active
+84,Company_00770,SMB,Healthcare,Taiwan,49,2024-03-15,Churned
+85,Company_00779,SMB,Financial Services,Taiwan,55,2024-06-15,Churned
+86,Company_00788,SMB,Professional Services,Japan,27,2024-05-18,Active
+87,Company_00796,SMB,Retail,Hong Kong,76,2024-02-09,Churned
+88,Company_00811,Mid-Market,Retail,Taiwan,374,2024-10-12,Active
+89,Company_00813,Enterprise,Financial Services,Japan,4364,2025-06-06,Churned
+90,Company_00814,SMB,Professional Services,Hong Kong,62,2025-06-23,Active
+91,Company_00821,Mid-Market,Manufacturing,Japan,248,2026-03-19,Churned
+92,Company_00831,Mid-Market,Professional Services,Japan,474,2024-05-18,Active
+93,Company_00866,SMB,Financial Services,Taiwan,65,2024-02-25,Churned
+94,Company_00873,SMB,Financial Services,Singapore,74,2024-05-11,Active
+95,Company_00876,Mid-Market,Manufacturing,Japan,361,2025-01-17,Churned
+96,Company_00877,Enterprise,Manufacturing,Japan,675,2025-11-07,Churned
+97,Company_00892,SMB,Professional Services,Singapore,89,2024-03-14,Churned
+98,Company_00897,SMB,Technology,Singapore,13,2025-04-14,Churned
+99,Company_00908,SMB,Technology,Hong Kong,97,2025-05-17,Churned
+100,Company_00912,Enterprise,Technology,Hong Kong,2566,2026-02-13,Churned
+101,Company_00939,SMB,Financial Services,Singapore,89,2025-03-13,Churned
+102,Company_00943,SMB,Technology,Japan,98,2025-05-23,Active
+103,Company_00948,SMB,Manufacturing,Japan,51,2024-09-20,Active
+104,Company_00962,SMB,Manufacturing,Japan,29,2025-01-22,Churned
+105,Company_00964,SMB,Healthcare,Japan,58,2025-08-23,Churned
+106,Company_00972,SMB,Professional Services,Singapore,13,2025-09-03,Churned
+107,Company_00986,Enterprise,Healthcare,Singapore,3247,2025-04-25,Churned
+108,Company_00992,Enterprise,Healthcare,Hong Kong,1395,2025-12-03,Active
+109,Company_00994,SMB,Retail,Hong Kong,74,2024-02-06,Churned
+110,Company_00998,Mid-Market,Financial Services,Hong Kong,288,2024-12-14,Churned
+111,Company_01006,SMB,Healthcare,Hong Kong,47,2024-03-14,Churned
+112,Company_01028,Mid-Market,Healthcare,Japan,475,2024-09-27,Active
+113,Company_01033,SMB,Financial Services,Singapore,59,2025-07-28,Active
+114,Company_01034,SMB,Technology,Japan,45,2024-09-05,Active
+115,Company_01051,SMB,Manufacturing,Singapore,22,2024-05-03,Churned
+116,Company_01069,SMB,Professional Services,Singapore,35,2024-12-29,Active
+117,Company_01099,Mid-Market,Financial Services,Japan,348,2025-10-24,Churned
+118,Company_01121,Mid-Market,Technology,Singapore,174,2025-04-21,Active
+119,Company_01138,Mid-Market,Financial Services,Taiwan,492,2025-12-08,Churned
+120,Company_01140,SMB,Manufacturing,Singapore,81,2025-04-23,Active
+121,Company_01173,SMB,Professional Services,Hong Kong,23,2024-05-29,Churned
+122,Company_01176,Mid-Market,Technology,Hong Kong,154,2025-05-26,Active
+123,Company_01178,SMB,Retail,Singapore,26,2025-05-12,Churned
+124,Company_01183,Mid-Market,Technology,Hong Kong,185,2025-02-14,Active
+125,Company_01200,SMB,Retail,Hong Kong,36,2025-12-03,Churned
+126,Company_01202,SMB,Professional Services,Hong Kong,19,2024-06-19,Churned
+127,Company_01210,Mid-Market,Professional Services,Singapore,255,2026-03-08,Active
+128,Company_01231,Mid-Market,Financial Services,Taiwan,234,2025-04-13,Active
+129,Company_01233,SMB,Manufacturing,Singapore,81,2025-10-17,Churned
+130,Company_01240,Enterprise,Professional Services,Taiwan,4868,2025-12-11,Active
+131,Company_01243,Mid-Market,Manufacturing,Singapore,307,2025-11-24,Active
+132,Company_01247,SMB,Professional Services,Japan,39,2025-10-03,Active
+133,Company_01249,SMB,Technology,Taiwan,63,2025-04-25,Churned
+134,Company_01266,SMB,Financial Services,Japan,64,2025-12-30,Churned
+135,Company_01273,SMB,Financial Services,Singapore,74,2024-05-23,Active
+136,Company_01283,Mid-Market,Professional Services,Singapore,116,2025-12-15,Churned
+137,Company_01296,SMB,Retail,Hong Kong,32,2024-04-07,Churned
+138,Company_01304,Mid-Market,Healthcare,Japan,411,2024-10-21,Churned
+139,Company_01306,SMB,Financial Services,Hong Kong,50,2025-05-18,Churned
+140,Company_01310,SMB,Manufacturing,Hong Kong,57,2024-03-01,Churned
+141,Company_01328,SMB,Healthcare,Japan,44,2024-05-30,Active
+142,Company_01336,SMB,Manufacturing,Japan,79,2024-03-14,Churned
+143,Company_01340,SMB,Retail,Taiwan,53,2025-04-22,Active
+144,Company_01344,SMB,Professional Services,Singapore,82,2024-07-18,Churned
+145,Company_01346,SMB,Healthcare,Taiwan,91,2025-08-31,Churned
+146,Company_01348,Mid-Market,Financial Services,Hong Kong,405,2025-01-10,Active
+147,Company_01368,Enterprise,Healthcare,Hong Kong,4163,2026-02-09,Churned
+148,Company_01382,SMB,Financial Services,Singapore,52,2025-05-08,Active
+149,Company_01389,Mid-Market,Technology,Japan,194,2025-12-20,Active
+150,Company_01390,Mid-Market,Retail,Taiwan,310,2025-11-11,Active
+151,Company_01393,Mid-Market,Technology,Taiwan,277,2025-08-11,Active
+152,Company_01409,Enterprise,Professional Services,Singapore,4506,2025-10-29,Churned
+153,Company_01418,SMB,Technology,Singapore,14,2025-04-20,Active
+154,Company_01427,SMB,Retail,Singapore,17,2025-02-02,Churned
+155,Company_01431,Mid-Market,Healthcare,Singapore,277,2024-12-29,Churned
+156,Company_01436,Enterprise,Manufacturing,Hong Kong,3862,2025-02-08,Active
+157,Company_01437,Mid-Market,Technology,Taiwan,171,2024-09-24,Churned
+158,Company_01442,Enterprise,Retail,Japan,4790,2026-02-24,Active
+159,Company_01456,Mid-Market,Professional Services,Japan,458,2025-05-10,Active
+160,Company_01462,SMB,Manufacturing,Hong Kong,47,2026-01-09,Active
+161,Company_01467,SMB,Professional Services,Taiwan,46,2024-12-01,Churned
+162,Company_01470,SMB,Professional Services,Taiwan,34,2025-04-13,Active
+163,Company_01472,Mid-Market,Technology,Singapore,174,2025-01-16,Active
+164,Company_01481,Enterprise,Technology,Japan,766,2025-12-06,Active
+165,Company_01503,Mid-Market,Professional Services,Hong Kong,463,2025-09-20,Churned
+166,Company_01506,Enterprise,Manufacturing,Hong Kong,4933,2025-10-24,Churned
+167,Company_01523,Enterprise,Healthcare,Hong Kong,1221,2025-11-25,Active
+168,Company_01534,Enterprise,Healthcare,Singapore,1263,2025-07-10,Active
+169,Company_01537,Enterprise,Professional Services,Singapore,3990,2024-12-01,Active
+170,Company_01539,SMB,Professional Services,Hong Kong,15,2024-06-03,Active
+171,Company_01544,SMB,Professional Services,Japan,86,2025-05-31,Active
+172,Company_01575,SMB,Retail,Singapore,62,2025-01-22,Churned
+173,Company_01582,Enterprise,Professional Services,Singapore,1958,2025-10-26,Active
+174,Company_01587,SMB,Financial Services,Japan,88,2024-11-21,Churned
+175,Company_01596,SMB,Retail,Japan,97,2025-03-03,Churned
+176,Company_01599,Mid-Market,Manufacturing,Hong Kong,226,2024-10-11,Churned
+177,Company_01601,Mid-Market,Healthcare,Hong Kong,389,2025-11-13,Active
+178,Company_01630,Mid-Market,Financial Services,Hong Kong,470,2024-04-03,Churned
+179,Company_01642,SMB,Manufacturing,Taiwan,51,2025-07-15,Active
+180,Company_01644,Enterprise,Manufacturing,Singapore,4052,2025-11-22,Churned
+181,Company_01648,Mid-Market,Technology,Hong Kong,146,2025-12-11,Active
+182,Company_01656,SMB,Manufacturing,Hong Kong,34,2024-09-12,Active
+183,Company_01685,SMB,Technology,Singapore,58,2024-07-25,Active
+184,Company_01692,Mid-Market,Financial Services,Singapore,147,2025-10-25,Active
+185,Company_01695,SMB,Retail,Singapore,51,2025-05-14,Churned
+186,Company_01703,SMB,Manufacturing,Singapore,23,2025-01-11,Churned
+187,Company_01715,SMB,Retail,Japan,11,2024-09-11,Churned
+188,Company_01738,SMB,Healthcare,Hong Kong,10,2025-03-05,Churned
+189,Company_01759,Mid-Market,Financial Services,Singapore,204,2024-06-07,Active
+190,Company_01764,SMB,Healthcare,Taiwan,73,2025-01-02,Churned
+191,Company_01765,Mid-Market,Retail,Hong Kong,232,2024-06-05,Active
+192,Company_01787,SMB,Professional Services,Taiwan,90,2025-03-10,Active
+193,Company_01789,SMB,Technology,Hong Kong,91,2024-10-02,Churned
+194,Company_01794,SMB,Professional Services,Japan,83,2024-03-10,Churned
+195,Company_01798,Enterprise,Retail,Japan,1715,2024-07-20,Churned
+196,Company_01807,SMB,Manufacturing,Singapore,25,2025-09-03,Churned
+197,Company_01834,Mid-Market,Technology,Hong Kong,176,2024-12-23,Churned
+198,Company_01853,Mid-Market,Retail,Hong Kong,104,2025-04-24,Active
+199,Company_01859,Enterprise,Financial Services,Taiwan,3935,2024-07-10,Churned
+200,Company_01861,SMB,Financial Services,Hong Kong,88,2024-12-03,Active
+201,Company_01862,Mid-Market,Manufacturing,Japan,362,2025-06-03,Churned
+202,Company_01867,SMB,Professional Services,Hong Kong,59,2024-12-01,Active
+203,Company_01872,SMB,Manufacturing,Hong Kong,14,2024-02-13,Churned
+204,Company_01878,Mid-Market,Retail,Taiwan,125,2024-09-17,Active
+205,Company_01892,SMB,Technology,Hong Kong,98,2025-04-05,Churned
+206,Company_01898,SMB,Professional Services,Singapore,73,2025-08-25,Churned
+207,Company_01899,Enterprise,Financial Services,Singapore,4323,2024-07-25,Churned
+208,Company_01913,SMB,Retail,Taiwan,97,2024-06-21,Churned
+209,Company_01916,Mid-Market,Professional Services,Singapore,267,2024-05-20,Churned
+210,Company_01921,Enterprise,Professional Services,Japan,4163,2024-06-01,Churned
+211,Company_01972,Mid-Market,Professional Services,Japan,147,2025-11-17,Churned
+212,Company_01974,SMB,Retail,Japan,56,2024-12-09,Churned
+213,Company_01986,SMB,Manufacturing,Japan,56,2024-03-22,Active
+214,Company_01994,SMB,Professional Services,Japan,52,2026-01-01,Active
+215,Company_01997,SMB,Technology,Hong Kong,59,2024-06-18,Churned
+216,Company_02011,SMB,Professional Services,Hong Kong,27,2025-03-04,Churned
+217,Company_02013,SMB,Manufacturing,Singapore,98,2024-09-24,Active
+218,Company_02026,SMB,Retail,Hong Kong,34,2025-08-11,Active
+219,Company_02031,SMB,Healthcare,Japan,83,2025-08-15,Churned
+220,Company_02034,Mid-Market,Professional Services,Hong Kong,450,2024-04-09,Active
+221,Company_02050,SMB,Manufacturing,Japan,46,2024-09-01,Churned
+222,Company_02054,Mid-Market,Manufacturing,Singapore,354,2025-03-21,Active
+223,Company_02060,Mid-Market,Professional Services,Singapore,313,2025-07-16,Churned
+224,Company_02061,SMB,Manufacturing,Hong Kong,49,2025-05-04,Active
+225,Company_02063,Mid-Market,Retail,Hong Kong,309,2025-11-05,Active
+226,Company_02064,Mid-Market,Retail,Singapore,460,2024-06-26,Churned
+227,Company_02065,SMB,Technology,Hong Kong,88,2025-08-23,Churned
+228,Company_02067,SMB,Technology,Hong Kong,18,2025-09-20,Churned
+229,Company_02073,Mid-Market,Technology,Japan,477,2025-11-27,Active
+230,Company_02093,Enterprise,Healthcare,Hong Kong,2810,2024-03-16,Active
+231,Company_02095,Mid-Market,Retail,Taiwan,272,2025-05-17,Active
+232,Company_02103,SMB,Financial Services,Singapore,68,2025-08-13,Churned
+233,Company_02111,SMB,Retail,Singapore,75,2024-02-16,Churned
+234,Company_02113,SMB,Technology,Singapore,57,2025-03-16,Churned
+235,Company_02116,Mid-Market,Healthcare,Hong Kong,417,2024-08-31,Churned
+236,Company_02140,SMB,Manufacturing,Hong Kong,99,2026-01-21,Churned
+237,Company_02141,Enterprise,Healthcare,Singapore,556,2025-05-25,Active
+238,Company_02161,SMB,Technology,Hong Kong,84,2025-01-05,Churned
+239,Company_02174,Mid-Market,Manufacturing,Taiwan,272,2025-07-21,Churned
+240,Company_02176,SMB,Healthcare,Taiwan,25,2026-01-10,Churned
+241,Company_02181,SMB,Healthcare,Singapore,87,2025-10-21,Active
+242,Company_02189,Mid-Market,Retail,Hong Kong,471,2024-12-12,Active
+243,Company_02195,SMB,Professional Services,Japan,80,2026-01-24,Churned
+244,Company_02209,Mid-Market,Retail,Hong Kong,114,2025-03-30,Churned
+245,Company_02217,Enterprise,Financial Services,Japan,3063,2025-07-12,Active
+246,Company_02222,Enterprise,Retail,Japan,1000,2024-08-30,Active
+247,Company_02234,Mid-Market,Retail,Singapore,283,2025-09-21,Churned
+248,Company_02238,SMB,Professional Services,Taiwan,58,2024-11-10,Active
+249,Company_02242,Enterprise,Professional Services,Taiwan,644,2025-02-12,Churned
+250,Company_02243,SMB,Retail,Taiwan,37,2025-06-19,Churned
+251,Company_02249,Mid-Market,Professional Services,Japan,165,2024-09-04,Active
+252,Company_02251,Enterprise,Technology,Hong Kong,3692,2025-03-31,Active
+253,Company_02268,SMB,Manufacturing,Taiwan,61,2024-04-19,Churned
+254,Company_02283,Enterprise,Retail,Taiwan,1597,2024-05-18,Churned
+255,Company_02288,SMB,Professional Services,Taiwan,98,2024-07-01,Active
+256,Company_02316,Enterprise,Manufacturing,Singapore,3286,2026-02-28,Churned
+257,Company_02326,Mid-Market,Manufacturing,Hong Kong,475,2025-10-07,Churned
+258,Company_02328,SMB,Financial Services,Taiwan,22,2025-06-06,Churned
+259,Company_02336,SMB,Financial Services,Taiwan,17,2025-08-16,Churned
+260,Company_02367,Mid-Market,Financial Services,Hong Kong,219,2024-08-16,Churned
+261,Company_02381,SMB,Healthcare,Japan,22,2025-05-02,Active
+262,Company_02401,SMB,Manufacturing,Singapore,56,2024-03-31,Churned
+263,Company_02408,SMB,Technology,Singapore,41,2025-08-26,Active
+264,Company_02412,SMB,Financial Services,Hong Kong,13,2024-03-12,Churned
+265,Company_02415,Mid-Market,Retail,Singapore,360,2025-04-09,Active
+266,Company_02421,SMB,Technology,Hong Kong,69,2025-02-13,Churned
+267,Company_02434,Enterprise,Professional Services,Taiwan,774,2025-08-30,Churned
+268,Company_02467,Enterprise,Manufacturing,Taiwan,2456,2025-03-08,Churned
+269,Company_02469,Mid-Market,Professional Services,Singapore,216,2025-04-26,Active
+270,Company_02471,SMB,Healthcare,Taiwan,10,2025-10-16,Churned
+271,Company_02477,SMB,Manufacturing,Hong Kong,30,2025-10-03,Active
+272,Company_02489,Enterprise,Retail,Singapore,2763,2025-01-13,Active
+273,Company_02495,SMB,Retail,Hong Kong,62,2024-05-16,Churned
+274,Company_02504,SMB,Professional Services,Taiwan,71,2025-10-21,Active
+275,Company_02517,SMB,Technology,Taiwan,71,2025-10-18,Churned
+276,Company_02535,Mid-Market,Financial Services,Singapore,314,2025-06-29,Churned
+277,Company_02559,Mid-Market,Retail,Singapore,440,2024-10-05,Churned
+278,Company_02571,Mid-Market,Manufacturing,Hong Kong,419,2025-08-13,Churned
+279,Company_02574,Enterprise,Healthcare,Hong Kong,3940,2025-06-22,Churned
+280,Company_02590,SMB,Technology,Singapore,80,2025-04-15,Churned
+281,Company_02597,SMB,Technology,Singapore,93,2024-06-23,Active
+282,Company_02606,SMB,Healthcare,Taiwan,81,2024-08-07,Active
+283,Company_02607,SMB,Retail,Singapore,67,2025-01-14,Churned
+284,Company_02616,SMB,Technology,Japan,10,2024-06-09,Churned
+285,Company_02626,SMB,Retail,Singapore,64,2025-11-14,Active
+286,Company_02636,SMB,Financial Services,Hong Kong,47,2025-05-11,Churned
+287,Company_02646,SMB,Manufacturing,Singapore,21,2024-05-14,Active
+288,Company_02649,SMB,Financial Services,Taiwan,17,2024-07-09,Churned
+289,Company_02660,Mid-Market,Financial Services,Japan,360,2024-04-20,Churned
+290,Company_02672,Enterprise,Healthcare,Japan,937,2024-10-31,Churned
+291,Company_02688,SMB,Retail,Japan,89,2025-02-27,Active
+292,Company_02704,Mid-Market,Financial Services,Singapore,438,2025-12-21,Active
+293,Company_02706,Enterprise,Retail,Taiwan,1043,2025-05-18,Churned
+294,Company_02726,Mid-Market,Professional Services,Singapore,103,2024-03-14,Churned
+295,Company_02734,Mid-Market,Retail,Singapore,340,2025-12-12,Churned
+296,Company_02743,SMB,Healthcare,Hong Kong,93,2025-06-12,Churned
+297,Company_02761,Enterprise,Retail,Singapore,1778,2025-09-18,Churned
+298,Company_02771,SMB,Financial Services,Hong Kong,82,2024-10-15,Churned
+299,Company_02773,Mid-Market,Professional Services,Hong Kong,414,2025-08-07,Churned
+300,Company_02777,Enterprise,Technology,Hong Kong,4054,2025-11-03,Active
+301,Company_02781,Enterprise,Technology,Japan,4558,2025-08-09,Churned
+302,Company_02786,SMB,Healthcare,Singapore,31,2025-03-25,Churned
+303,Company_02809,Mid-Market,Professional Services,Singapore,190,2025-06-10,Active
+304,Company_02815,SMB,Professional Services,Hong Kong,46,2024-08-07,Churned
+305,Company_02824,Enterprise,Retail,Singapore,4818,2024-10-06,Churned
+306,Company_02831,Mid-Market,Professional Services,Singapore,273,2024-09-15,Churned
+307,Company_02834,Mid-Market,Professional Services,Taiwan,279,2024-10-26,Active
+308,Company_02835,Mid-Market,Retail,Japan,159,2026-02-25,Active
+309,Company_02854,Mid-Market,Technology,Taiwan,274,2024-04-23,Churned
+310,Company_02862,Mid-Market,Manufacturing,Hong Kong,423,2024-11-01,Churned
+311,Company_02865,Mid-Market,Healthcare,Hong Kong,329,2025-05-20,Churned
+312,Company_02869,SMB,Healthcare,Singapore,14,2025-05-13,Churned
+313,Company_02874,Enterprise,Manufacturing,Japan,2160,2026-01-10,Churned
+314,Company_02889,SMB,Retail,Taiwan,43,2025-04-22,Churned
+315,Company_02916,SMB,Technology,Japan,35,2025-04-22,Churned
+316,Company_02929,Mid-Market,Technology,Hong Kong,244,2024-10-20,Churned
+317,Company_02951,SMB,Technology,Taiwan,83,2025-05-31,Churned
+318,Company_02952,SMB,Financial Services,Hong Kong,21,2025-02-12,Churned
+319,Company_02953,SMB,Professional Services,Hong Kong,66,2025-05-15,Active
+320,Company_02958,Mid-Market,Financial Services,Singapore,139,2026-01-14,Active
+321,Company_02963,Mid-Market,Healthcare,Hong Kong,439,2024-07-05,Churned
+322,Company_02965,SMB,Manufacturing,Japan,16,2026-01-17,Active
+323,Company_02982,SMB,Technology,Taiwan,16,2024-10-06,Churned
+324,Company_02996,Mid-Market,Manufacturing,Japan,219,2025-07-02,Churned
+325,Company_03005,Mid-Market,Financial Services,Singapore,434,2025-06-19,Churned
+326,Company_03025,Mid-Market,Financial Services,Japan,420,2025-11-01,Churned
+327,Company_03028,SMB,Professional Services,Taiwan,53,2024-09-17,Active
+328,Company_03030,Mid-Market,Financial Services,Hong Kong,352,2024-03-13,Active
+329,Company_03049,SMB,Professional Services,Japan,90,2024-10-17,Active
+330,Company_03062,Enterprise,Technology,Japan,834,2026-01-05,Churned
+331,Company_03063,SMB,Financial Services,Japan,52,2025-10-03,Active
+332,Company_03066,Enterprise,Manufacturing,Japan,4874,2026-01-26,Churned
+333,Company_03070,SMB,Financial Services,Taiwan,39,2024-07-09,Churned
+334,Company_03082,Mid-Market,Healthcare,Japan,434,2025-07-16,Active
+335,Company_03091,Mid-Market,Retail,Singapore,212,2025-01-13,Churned
+336,Company_03118,SMB,Retail,Singapore,92,2024-07-06,Churned
+337,Company_03122,SMB,Manufacturing,Hong Kong,49,2025-03-05,Active
+338,Company_03132,Enterprise,Healthcare,Japan,2800,2025-03-26,Active
+339,Company_03138,SMB,Technology,Japan,41,2025-06-14,Active
+340,Company_03143,Mid-Market,Professional Services,Hong Kong,420,2025-08-04,Churned
+341,Company_03144,Enterprise,Professional Services,Singapore,4495,2025-12-05,Churned
+342,Company_03179,Mid-Market,Retail,Japan,245,2024-12-17,Active
+343,Company_03193,SMB,Financial Services,Taiwan,72,2025-01-04,Churned
+344,Company_03221,SMB,Technology,Taiwan,57,2024-03-10,Active
+345,Company_03227,Enterprise,Financial Services,Taiwan,982,2025-04-04,Churned
+346,Company_03231,SMB,Manufacturing,Japan,64,2025-02-25,Active
+347,Company_03234,SMB,Professional Services,Japan,36,2024-07-07,Churned
+348,Company_03235,SMB,Retail,Singapore,61,2025-04-26,Churned
+349,Company_03245,SMB,Healthcare,Hong Kong,81,2025-03-14,Churned
+350,Company_03246,Mid-Market,Financial Services,Taiwan,272,2024-09-08,Churned
+351,Company_03250,SMB,Professional Services,Taiwan,36,2025-12-21,Churned
+352,Company_03254,Mid-Market,Technology,Singapore,388,2024-07-03,Churned
+353,Company_03264,Mid-Market,Manufacturing,Taiwan,419,2024-09-28,Churned
+354,Company_03267,SMB,Healthcare,Singapore,98,2024-12-19,Active
+355,Company_03275,SMB,Technology,Hong Kong,33,2025-06-13,Churned
+356,Company_03283,SMB,Retail,Taiwan,74,2025-12-19,Churned
+357,Company_03285,SMB,Retail,Japan,61,2025-03-17,Active
+358,Company_03296,Mid-Market,Technology,Hong Kong,469,2025-05-19,Churned
+359,Company_03297,SMB,Financial Services,Japan,36,2025-03-07,Active
+360,Company_03300,SMB,Technology,Singapore,58,2024-02-06,Active
+361,Company_03307,SMB,Financial Services,Japan,84,2024-05-13,Churned
+362,Company_03317,Enterprise,Professional Services,Japan,2404,2026-02-21,Active
+363,Company_03318,SMB,Manufacturing,Taiwan,42,2024-02-29,Churned
+364,Company_03320,SMB,Financial Services,Singapore,96,2024-05-13,Active
+365,Company_03321,Enterprise,Manufacturing,Hong Kong,1155,2024-06-12,Churned
+366,Company_03341,Enterprise,Financial Services,Taiwan,1022,2024-11-14,Churned
+367,Company_03343,SMB,Financial Services,Japan,56,2024-11-01,Churned
+368,Company_03356,SMB,Technology,Singapore,27,2025-07-17,Active
+369,Company_03357,SMB,Technology,Hong Kong,55,2025-07-08,Active
+370,Company_03368,SMB,Financial Services,Taiwan,63,2025-03-15,Churned
+371,Company_03370,Enterprise,Healthcare,Japan,2703,2025-10-21,Active
+372,Company_03374,Mid-Market,Professional Services,Singapore,151,2025-08-28,Active
+373,Company_03381,SMB,Professional Services,Taiwan,93,2024-08-04,Active
+374,Company_03383,SMB,Financial Services,Taiwan,61,2025-07-12,Churned
+375,Company_03403,SMB,Technology,Taiwan,55,2024-06-29,Churned
+376,Company_03405,SMB,Retail,Hong Kong,16,2024-05-15,Churned
+377,Company_03408,SMB,Retail,Hong Kong,65,2025-10-02,Churned
+378,Company_03414,Enterprise,Retail,Taiwan,2931,2024-03-22,Churned
+379,Company_03420,Enterprise,Professional Services,Japan,2232,2025-07-23,Active
+380,Company_03427,Enterprise,Retail,Hong Kong,2363,2024-12-27,Churned
+381,Company_03429,Enterprise,Healthcare,Singapore,711,2025-12-22,Churned
+382,Company_03434,Enterprise,Retail,Japan,3328,2025-12-04,Active
+383,Company_03437,Enterprise,Technology,Hong Kong,2916,2025-06-18,Churned
+384,Company_03466,Enterprise,Healthcare,Japan,999,2026-02-12,Churned
+385,Company_03469,SMB,Retail,Japan,61,2024-03-29,Churned
+386,Company_03475,SMB,Manufacturing,Japan,82,2025-06-23,Active
+387,Company_03484,SMB,Manufacturing,Hong Kong,64,2024-05-17,Churned
+388,Company_03486,Mid-Market,Retail,Japan,289,2026-02-08,Churned
+389,Company_03501,SMB,Professional Services,Hong Kong,22,2025-08-19,Churned
+390,Company_03502,Mid-Market,Manufacturing,Taiwan,241,2025-11-20,Churned
+391,Company_03526,Enterprise,Financial Services,Singapore,4688,2025-09-17,Active
+392,Company_03528,Mid-Market,Manufacturing,Hong Kong,172,2024-08-24,Active
+393,Company_03529,SMB,Manufacturing,Japan,59,2024-07-26,Churned
+394,Company_03536,Enterprise,Technology,Taiwan,1945,2025-05-04,Churned
+395,Company_03537,SMB,Financial Services,Taiwan,68,2024-05-30,Churned
+396,Company_03539,Mid-Market,Technology,Japan,172,2024-11-28,Churned
+397,Company_03543,SMB,Healthcare,Singapore,53,2025-07-19,Churned
+398,Company_03547,Mid-Market,Healthcare,Japan,308,2026-01-19,Active
+399,Company_03551,SMB,Manufacturing,Japan,41,2025-05-13,Active
+400,Company_03568,Mid-Market,Technology,Japan,419,2026-03-04,Active
+401,Company_03583,Mid-Market,Technology,Singapore,226,2025-03-29,Active
+402,Company_03588,Mid-Market,Healthcare,Hong Kong,118,2025-06-18,Churned
+403,Company_03589,SMB,Healthcare,Taiwan,17,2024-08-28,Churned
+404,Company_03601,Mid-Market,Professional Services,Singapore,397,2025-03-22,Churned
+405,Company_03606,Enterprise,Financial Services,Taiwan,1711,2024-12-17,Churned
+406,Company_03619,SMB,Healthcare,Japan,97,2024-11-22,Churned
+407,Company_03630,SMB,Retail,Taiwan,29,2025-02-25,Active
+408,Company_03631,Mid-Market,Professional Services,Taiwan,242,2024-11-29,Active
+409,Company_03640,SMB,Professional Services,Hong Kong,19,2025-06-20,Churned
+410,Company_03642,Enterprise,Retail,Singapore,1248,2025-07-06,Churned
+411,Company_03644,SMB,Technology,Taiwan,70,2025-05-14,Active
+412,Company_03650,Enterprise,Technology,Taiwan,4380,2024-09-18,Churned
+413,Company_03657,Mid-Market,Healthcare,Hong Kong,160,2025-05-04,Active
+414,Company_03666,SMB,Professional Services,Japan,57,2024-02-24,Active
+415,Company_03677,Enterprise,Technology,Hong Kong,3383,2025-12-02,Active
+416,Company_03681,SMB,Professional Services,Singapore,34,2024-06-30,Active
+417,Company_03708,Enterprise,Financial Services,Japan,4014,2024-03-20,Churned
+418,Company_03721,Mid-Market,Retail,Singapore,351,2026-01-24,Churned
+419,Company_03726,SMB,Retail,Taiwan,40,2025-05-23,Churned
+420,Company_03733,Mid-Market,Retail,Japan,157,2024-05-27,Active
+421,Company_03739,SMB,Manufacturing,Taiwan,71,2024-04-27,Active
+422,Company_03753,SMB,Manufacturing,Hong Kong,47,2024-06-14,Active
+423,Company_03760,SMB,Healthcare,Hong Kong,30,2025-09-16,Active
+424,Company_03769,Mid-Market,Professional Services,Singapore,133,2024-07-25,Churned
+425,Company_03793,Enterprise,Manufacturing,Hong Kong,1353,2025-08-22,Active
+426,Company_03796,Mid-Market,Retail,Taiwan,275,2025-06-10,Churned
+427,Company_03803,SMB,Retail,Taiwan,26,2025-08-21,Active
+428,Company_03823,SMB,Technology,Japan,23,2024-03-27,Churned
+429,Company_03841,SMB,Retail,Hong Kong,98,2025-04-11,Churned
+430,Company_03856,Enterprise,Technology,Taiwan,1802,2025-08-24,Active
+431,Company_03862,SMB,Professional Services,Japan,65,2025-08-23,Churned
+432,Company_03869,SMB,Technology,Singapore,86,2024-09-04,Churned
+433,Company_03870,SMB,Professional Services,Singapore,40,2024-09-10,Churned
+434,Company_03873,SMB,Healthcare,Japan,63,2024-03-22,Churned
+435,Company_03884,SMB,Professional Services,Singapore,10,2024-05-01,Churned
+436,Company_03892,Enterprise,Retail,Singapore,4557,2024-10-16,Active
+437,Company_03896,Enterprise,Technology,Singapore,823,2025-08-13,Churned
+438,Company_03900,Enterprise,Retail,Japan,4350,2024-06-22,Active
+439,Company_03908,SMB,Professional Services,Singapore,34,2024-03-30,Active
+440,Company_03911,SMB,Manufacturing,Singapore,88,2025-12-21,Active
+441,Company_03914,Enterprise,Retail,Singapore,3538,2024-06-21,Active
+442,Company_03917,Mid-Market,Professional Services,Japan,286,2026-01-01,Churned
+443,Company_03919,Mid-Market,Healthcare,Taiwan,151,2025-11-01,Churned
+444,Company_03940,Mid-Market,Professional Services,Japan,219,2025-09-04,Churned
+445,Company_03946,SMB,Retail,Japan,21,2025-08-03,Churned
+446,Company_03975,Mid-Market,Healthcare,Singapore,112,2024-11-01,Churned
+447,Company_04003,Mid-Market,Retail,Hong Kong,223,2025-06-04,Churned
+448,Company_04009,Mid-Market,Financial Services,Singapore,422,2025-05-22,Churned
+449,Company_04013,SMB,Retail,Hong Kong,82,2025-01-09,Active
+450,Company_04028,Mid-Market,Retail,Hong Kong,375,2024-11-25,Churned
+451,Company_04032,SMB,Technology,Taiwan,64,2025-07-08,Active
+452,Company_04034,Mid-Market,Technology,Japan,494,2025-04-14,Active
+453,Company_04039,SMB,Healthcare,Singapore,79,2025-08-09,Active
+454,Company_04063,SMB,Professional Services,Singapore,76,2024-04-30,Churned
+455,Company_04077,SMB,Professional Services,Japan,64,2024-11-29,Churned
+456,Company_04097,SMB,Manufacturing,Singapore,34,2024-11-04,Churned
+457,Company_04103,SMB,Retail,Hong Kong,52,2024-05-29,Active
+458,Company_04113,Enterprise,Healthcare,Taiwan,2916,2024-03-28,Churned
+459,Company_04144,SMB,Professional Services,Singapore,22,2025-05-29,Churned
+460,Company_04153,SMB,Technology,Taiwan,28,2024-08-20,Churned
+461,Company_04160,SMB,Retail,Hong Kong,38,2025-06-29,Active
+462,Company_04171,Enterprise,Professional Services,Hong Kong,578,2025-10-29,Active
+463,Company_04172,SMB,Retail,Singapore,95,2025-04-05,Active
+464,Company_04176,Mid-Market,Retail,Japan,341,2025-03-21,Churned
+465,Company_04181,Mid-Market,Financial Services,Japan,282,2025-12-12,Active
+466,Company_04184,SMB,Professional Services,Taiwan,58,2024-05-08,Churned
+467,Company_04191,SMB,Technology,Singapore,67,2024-05-13,Active
+468,Company_04199,Enterprise,Professional Services,Japan,2971,2024-10-05,Churned
+469,Company_04211,SMB,Retail,Taiwan,50,2024-10-06,Active
+470,Company_04219,SMB,Technology,Singapore,41,2024-08-02,Active
+471,Company_04251,SMB,Technology,Japan,69,2024-11-15,Churned
+472,Company_04257,SMB,Technology,Taiwan,72,2025-02-22,Churned
+473,Company_04260,SMB,Manufacturing,Taiwan,14,2024-02-01,Churned
+474,Company_04277,SMB,Technology,Taiwan,87,2025-08-06,Active
+475,Company_04288,SMB,Technology,Taiwan,60,2025-07-11,Churned
+476,Company_04298,SMB,Financial Services,Japan,42,2025-04-03,Churned
+477,Company_04306,Mid-Market,Healthcare,Taiwan,179,2024-08-08,Churned
+478,Company_04309,Mid-Market,Financial Services,Taiwan,169,2024-05-09,Churned
+479,Company_04320,SMB,Financial Services,Hong Kong,56,2024-06-05,Churned
+480,Company_04325,Mid-Market,Manufacturing,Taiwan,311,2024-09-01,Churned
+481,Company_04330,Enterprise,Healthcare,Japan,2207,2024-10-28,Churned
+482,Company_04337,SMB,Manufacturing,Japan,75,2024-07-01,Churned
+483,Company_04343,SMB,Manufacturing,Hong Kong,56,2024-04-17,Churned
+484,Company_04344,SMB,Manufacturing,Taiwan,18,2025-09-09,Active
+485,Company_04359,SMB,Technology,Hong Kong,65,2025-06-19,Churned
+486,Company_04360,Enterprise,Retail,Taiwan,733,2025-05-05,Churned
+487,Company_04365,SMB,Financial Services,Singapore,35,2025-09-03,Churned
+488,Company_04378,SMB,Healthcare,Singapore,24,2024-08-11,Churned
+489,Company_04391,SMB,Financial Services,Japan,29,2024-05-30,Active
+490,Company_04399,SMB,Retail,Taiwan,18,2024-04-08,Active
+491,Company_04409,SMB,Retail,Japan,89,2024-12-07,Churned
+492,Company_04412,SMB,Financial Services,Hong Kong,20,2025-11-27,Churned
+493,Company_04414,Mid-Market,Professional Services,Singapore,253,2026-01-14,Churned
+494,Company_04425,Enterprise,Technology,Taiwan,2669,2026-04-27,Churned
+495,Company_04432,Enterprise,Professional Services,Japan,1584,2025-09-10,Churned
+496,Company_04444,SMB,Manufacturing,Taiwan,34,2025-08-06,Churned
+497,Company_04448,Mid-Market,Financial Services,Singapore,377,2025-02-06,Active
+498,Company_04461,SMB,Retail,Hong Kong,20,2025-03-31,Active
+499,Company_04462,SMB,Technology,Taiwan,49,2024-02-22,Churned
+500,Company_04475,Enterprise,Retail,Hong Kong,3215,2026-02-21,Churned
+501,Company_04477,SMB,Manufacturing,Singapore,45,2024-05-05,Active
+502,Company_04483,Mid-Market,Healthcare,Hong Kong,129,2025-07-18,Churned
+503,Company_04516,Mid-Market,Manufacturing,Hong Kong,225,2024-05-31,Active
+504,Company_04546,SMB,Professional Services,Japan,27,2025-08-11,Churned
+505,Company_04548,SMB,Technology,Taiwan,71,2024-12-04,Churned
+506,Company_04568,Enterprise,Manufacturing,Hong Kong,2726,2025-11-28,Active
+507,Company_04572,SMB,Retail,Japan,23,2025-05-16,Active
+508,Company_04574,Mid-Market,Professional Services,Singapore,275,2025-11-24,Active
+509,Company_04575,Enterprise,Financial Services,Japan,2587,2025-09-06,Churned
+510,Company_04576,Mid-Market,Manufacturing,Japan,321,2024-09-23,Active
+511,Company_04581,SMB,Healthcare,Hong Kong,42,2025-05-16,Churned
+512,Company_04586,SMB,Retail,Taiwan,33,2024-07-19,Churned
+513,Company_04594,SMB,Manufacturing,Hong Kong,29,2024-05-15,Churned
+514,Company_04595,SMB,Technology,Taiwan,56,2024-11-15,Churned
+515,Company_04607,SMB,Technology,Taiwan,57,2024-08-15,Active
+516,Company_04609,Mid-Market,Healthcare,Hong Kong,390,2024-04-09,Churned
+517,Company_04610,SMB,Retail,Japan,27,2025-03-05,Active
+518,Company_04612,Mid-Market,Professional Services,Taiwan,169,2024-11-21,Active
+519,Company_04619,Mid-Market,Technology,Japan,355,2024-11-08,Churned
+520,Company_04630,Mid-Market,Manufacturing,Taiwan,137,2024-06-18,Active
+521,Company_04633,Enterprise,Retail,Hong Kong,2001,2024-04-30,Churned
+522,Company_04635,SMB,Technology,Singapore,90,2024-11-06,Churned
+523,Company_04636,Enterprise,Retail,Singapore,577,2026-01-13,Active
+524,Company_04641,Mid-Market,Retail,Hong Kong,340,2024-10-21,Churned
+525,Company_04655,Mid-Market,Retail,Hong Kong,254,2024-10-04,Active
+526,Company_04662,SMB,Retail,Japan,45,2025-11-24,Active
+527,Company_04663,SMB,Professional Services,Hong Kong,20,2025-11-28,Active
+528,Company_04674,Mid-Market,Technology,Taiwan,443,2024-12-11,Churned
+529,Company_04677,SMB,Healthcare,Japan,23,2024-07-25,Churned
+530,Company_04693,SMB,Technology,Singapore,47,2024-11-23,Churned
+531,Company_04694,SMB,Healthcare,Taiwan,96,2024-05-03,Churned
+532,Company_04696,SMB,Retail,Japan,76,2026-01-10,Churned
+533,Company_04727,SMB,Healthcare,Singapore,59,2025-07-17,Active
+534,Company_04730,Enterprise,Financial Services,Hong Kong,1840,2026-06-09,Active
+535,Company_04741,Mid-Market,Healthcare,Taiwan,411,2024-09-30,Churned
+536,Company_04744,Enterprise,Retail,Singapore,4488,2024-09-07,Churned
+537,Company_04750,Mid-Market,Financial Services,Singapore,360,2024-11-22,Churned
+538,Company_04758,SMB,Technology,Taiwan,34,2025-04-05,Active
+539,Company_04761,Mid-Market,Manufacturing,Singapore,167,2025-08-30,Churned
+540,Company_04776,SMB,Professional Services,Hong Kong,91,2025-09-01,Active
+541,Company_04780,Mid-Market,Technology,Hong Kong,358,2024-11-10,Churned
+542,Company_04787,SMB,Retail,Singapore,46,2024-11-07,Churned
+543,Company_04794,Mid-Market,Financial Services,Japan,265,2025-11-02,Active
+544,Company_04797,SMB,Healthcare,Taiwan,34,2025-02-24,Active
+545,Company_04801,SMB,Manufacturing,Hong Kong,76,2024-02-06,Churned
+546,Company_04831,Mid-Market,Professional Services,Singapore,159,2025-07-20,Churned
+547,Company_04851,SMB,Healthcare,Taiwan,31,2024-08-21,Churned
+548,Company_04854,Enterprise,Technology,Taiwan,1522,2024-05-10,Churned
+549,Company_04866,SMB,Professional Services,Singapore,90,2025-10-10,Active
+550,Company_04874,Mid-Market,Retail,Taiwan,322,2024-02-15,Churned
+551,Company_04895,SMB,Technology,Japan,65,2025-02-19,Churned
+552,Company_04905,SMB,Manufacturing,Taiwan,17,2025-09-20,Active
+553,Company_04914,SMB,Healthcare,Taiwan,44,2024-08-26,Active
+554,Company_04931,SMB,Professional Services,Taiwan,99,2024-04-21,Active
+555,Company_04953,SMB,Technology,Singapore,11,2025-12-16,Churned
+556,Company_04954,SMB,Retail,Taiwan,98,2025-08-27,Churned
+557,Company_04955,SMB,Professional Services,Japan,13,2026-01-13,Churned
+558,Company_04969,SMB,Healthcare,Taiwan,84,2025-04-11,Churned
+559,Company_04985,SMB,Financial Services,Singapore,81,2025-08-05,Churned
+560,Company_05006,SMB,Manufacturing,Hong Kong,84,2026-01-21,Active
+561,Company_05007,SMB,Retail,Hong Kong,38,2024-07-12,Churned
+562,Company_05013,SMB,Technology,Japan,64,2025-07-28,Active
+563,Company_05022,SMB,Healthcare,Singapore,79,2024-04-19,Active
+564,Company_05026,Mid-Market,Financial Services,Hong Kong,475,2025-03-22,Churned
+565,Company_05041,Enterprise,Retail,Japan,4178,2025-11-09,Active
+566,Company_05043,Mid-Market,Technology,Japan,121,2025-05-23,Churned
+567,Company_05055,SMB,Manufacturing,Hong Kong,18,2025-02-05,Active
+568,Company_05058,Mid-Market,Retail,Hong Kong,340,2024-04-29,Active
+569,Company_05066,Mid-Market,Professional Services,Japan,174,2024-05-11,Active
+570,Company_05073,SMB,Technology,Taiwan,19,2024-04-05,Churned
+571,Company_05087,SMB,Financial Services,Japan,57,2024-11-03,Active
+572,Company_05089,SMB,Professional Services,Hong Kong,98,2025-05-29,Active
+573,Company_05098,SMB,Professional Services,Hong Kong,21,2025-09-14,Churned
+574,Company_05106,SMB,Manufacturing,Taiwan,78,2024-04-01,Churned
+575,Company_05116,SMB,Professional Services,Taiwan,43,2025-08-04,Churned
+576,Company_05151,Enterprise,Manufacturing,Hong Kong,4318,2025-01-22,Churned
+577,Company_05172,SMB,Professional Services,Singapore,46,2025-09-27,Active
+578,Company_05174,Mid-Market,Retail,Singapore,232,2025-11-14,Churned
+579,Company_05177,Mid-Market,Technology,Hong Kong,121,2025-01-22,Active
+580,Company_05192,SMB,Financial Services,Singapore,17,2024-04-28,Churned
+581,Company_05194,Enterprise,Retail,Japan,994,2025-01-09,Churned
+582,Company_05212,SMB,Manufacturing,Singapore,50,2025-03-10,Churned
+583,Company_05233,SMB,Retail,Singapore,42,2025-05-11,Churned
+584,Company_05237,SMB,Manufacturing,Hong Kong,97,2025-01-14,Churned
+585,Company_05243,SMB,Retail,Singapore,41,2026-02-13,Active
+586,Company_05256,SMB,Professional Services,Japan,92,2025-08-31,Active
+587,Company_05264,SMB,Healthcare,Singapore,21,2025-11-02,Active
+588,Company_05277,SMB,Technology,Japan,95,2025-08-01,Churned
+589,Company_05298,SMB,Professional Services,Singapore,30,2025-05-12,Active
+590,Company_05316,Mid-Market,Professional Services,Hong Kong,165,2025-06-14,Churned
+591,Company_05321,Mid-Market,Technology,Singapore,183,2024-11-30,Churned
+592,Company_05332,SMB,Technology,Taiwan,63,2025-07-25,Churned
+593,Company_05365,SMB,Retail,Hong Kong,48,2024-11-13,Active
+594,Company_05372,Enterprise,Healthcare,Hong Kong,2021,2025-11-14,Active
+595,Company_05375,SMB,Healthcare,Taiwan,38,2025-12-04,Active
+596,Company_05386,SMB,Professional Services,Singapore,29,2025-04-24,Churned
+597,Company_05390,SMB,Technology,Hong Kong,66,2024-07-31,Active
+598,Company_05393,Enterprise,Professional Services,Taiwan,1853,2025-07-28,Active
+599,Company_05394,SMB,Financial Services,Singapore,48,2024-06-13,Churned
+600,Company_05427,Mid-Market,Professional Services,Taiwan,424,2026-03-01,Active
+601,Company_05435,SMB,Financial Services,Taiwan,49,2024-04-19,Churned
+602,Company_05440,SMB,Healthcare,Hong Kong,97,2025-11-20,Churned
+603,Company_05446,Mid-Market,Retail,Japan,424,2026-02-11,Active
+604,Company_05449,Mid-Market,Technology,Japan,443,2024-06-19,Churned
+605,Company_05450,SMB,Retail,Hong Kong,55,2025-12-29,Active
+606,Company_05451,SMB,Professional Services,Hong Kong,14,2025-01-22,Active
+607,Company_05453,Mid-Market,Retail,Japan,213,2025-03-20,Active
+608,Company_05465,Enterprise,Technology,Hong Kong,4625,2024-10-12,Churned
+609,Company_05467,Enterprise,Manufacturing,Singapore,2210,2024-11-18,Churned
+610,Company_05487,SMB,Retail,Singapore,48,2025-07-30,Active
+611,Company_05489,Enterprise,Healthcare,Hong Kong,4443,2025-04-02,Active
+612,Company_05500,SMB,Technology,Taiwan,64,2024-12-02,Churned
+613,Company_05504,SMB,Financial Services,Singapore,93,2024-07-02,Churned
+614,Company_05510,Mid-Market,Professional Services,Japan,243,2025-07-09,Active
+615,Company_05514,SMB,Retail,Japan,89,2024-11-18,Churned
+616,Company_05530,Mid-Market,Technology,Hong Kong,399,2025-05-09,Churned
+617,Company_05531,Enterprise,Retail,Singapore,3126,2024-12-01,Churned
+618,Company_05532,Enterprise,Healthcare,Singapore,2001,2024-07-03,Churned
+619,Company_05534,Mid-Market,Professional Services,Hong Kong,463,2024-06-11,Active
+620,Company_05537,Mid-Market,Technology,Japan,196,2025-01-18,Churned
+621,Company_05546,SMB,Healthcare,Taiwan,29,2025-11-29,Active
+622,Company_05550,SMB,Financial Services,Taiwan,50,2025-04-11,Churned
+623,Company_05559,Mid-Market,Manufacturing,Taiwan,202,2024-10-16,Churned
+624,Company_05560,SMB,Financial Services,Hong Kong,70,2024-07-26,Churned
+625,Company_05572,Mid-Market,Professional Services,Hong Kong,343,2025-09-19,Churned
+626,Company_05577,Enterprise,Manufacturing,Taiwan,2924,2024-12-06,Active
+627,Company_05582,SMB,Manufacturing,Taiwan,33,2024-06-24,Churned
+628,Company_05587,SMB,Technology,Hong Kong,30,2025-04-26,Churned
+629,Company_05588,SMB,Retail,Hong Kong,91,2024-08-18,Active
+630,Company_05606,SMB,Retail,Japan,62,2024-05-02,Churned
+631,Company_05610,SMB,Professional Services,Singapore,66,2025-08-02,Churned
+632,Company_05611,Mid-Market,Manufacturing,Hong Kong,132,2025-11-10,Active
+633,Company_05613,SMB,Technology,Hong Kong,58,2024-05-09,Churned
+634,Company_05642,SMB,Financial Services,Singapore,46,2025-10-26,Churned
+635,Company_05650,SMB,Manufacturing,Japan,80,2026-02-03,Active
+636,Company_05664,SMB,Retail,Taiwan,42,2025-06-25,Churned
+637,Company_05685,SMB,Manufacturing,Japan,40,2025-03-31,Churned
+638,Company_05701,Mid-Market,Financial Services,Japan,489,2025-04-10,Active
+639,Company_05711,SMB,Retail,Hong Kong,54,2024-02-23,Churned
+640,Company_05723,SMB,Healthcare,Hong Kong,25,2025-05-10,Active
+641,Company_05725,Enterprise,Financial Services,Hong Kong,2848,2026-06-08,Active
+642,Company_05740,Mid-Market,Technology,Taiwan,283,2025-05-18,Churned
+643,Company_05762,Enterprise,Professional Services,Japan,2847,2024-04-11,Active
+644,Company_05764,Mid-Market,Professional Services,Hong Kong,471,2024-06-21,Churned
+645,Company_05781,SMB,Technology,Singapore,96,2025-09-24,Active
+646,Company_05784,SMB,Manufacturing,Taiwan,61,2025-01-11,Churned
+647,Company_05793,SMB,Technology,Taiwan,27,2025-10-10,Churned
+648,Company_05818,SMB,Financial Services,Hong Kong,59,2025-07-15,Churned
+649,Company_05828,Mid-Market,Financial Services,Singapore,120,2024-12-05,Churned
+650,Company_05837,SMB,Retail,Japan,51,2024-06-05,Active
+651,Company_05845,Mid-Market,Manufacturing,Japan,275,2026-02-20,Active
+652,Company_05852,SMB,Financial Services,Hong Kong,39,2024-12-01,Active
+653,Company_05868,SMB,Retail,Singapore,74,2025-11-16,Active
+654,Company_05874,SMB,Financial Services,Japan,56,2024-12-31,Churned
+655,Company_05880,Mid-Market,Professional Services,Singapore,281,2024-06-07,Active
+656,Company_05888,SMB,Healthcare,Hong Kong,54,2024-09-16,Active
+657,Company_05890,SMB,Financial Services,Taiwan,79,2024-06-30,Churned
+658,Company_05897,SMB,Manufacturing,Taiwan,74,2025-05-19,Churned
+659,Company_05900,SMB,Professional Services,Japan,53,2025-05-26,Churned
+660,Company_05919,Mid-Market,Manufacturing,Japan,392,2024-07-07,Churned
+661,Company_05920,SMB,Financial Services,Hong Kong,85,2025-12-03,Active
+662,Company_05948,Mid-Market,Healthcare,Hong Kong,150,2026-01-26,Churned
+663,Company_05962,SMB,Professional Services,Singapore,91,2024-03-19,Churned
+664,Company_05973,SMB,Professional Services,Singapore,77,2025-10-29,Churned
+665,Company_05982,SMB,Professional Services,Taiwan,82,2024-02-19,Churned
+666,Company_05988,SMB,Manufacturing,Singapore,17,2024-03-30,Churned
+667,Company_05995,Mid-Market,Retail,Hong Kong,212,2026-01-01,Active
+668,Company_05996,SMB,Retail,Hong Kong,44,2024-10-08,Churned
+669,Company_06010,SMB,Professional Services,Hong Kong,70,2025-07-30,Churned
+670,Company_06032,Enterprise,Manufacturing,Singapore,4261,2025-07-10,Churned
+671,Company_06038,Mid-Market,Financial Services,Japan,450,2025-05-26,Churned
+672,Company_06044,SMB,Financial Services,Taiwan,42,2024-07-25,Churned
+673,Company_06065,SMB,Professional Services,Hong Kong,45,2024-05-24,Churned
+674,Company_06076,SMB,Professional Services,Hong Kong,88,2025-05-19,Churned
+675,Company_06107,SMB,Technology,Hong Kong,83,2024-07-16,Churned
+676,Company_06122,Mid-Market,Technology,Singapore,278,2025-08-20,Churned
+677,Company_06137,Enterprise,Technology,Taiwan,3239,2024-11-21,Churned
+678,Company_06155,SMB,Healthcare,Hong Kong,37,2025-05-09,Active
+679,Company_06160,SMB,Healthcare,Hong Kong,87,2024-10-25,Active
+680,Company_06174,Mid-Market,Financial Services,Hong Kong,488,2026-01-01,Churned
+681,Company_06177,SMB,Manufacturing,Japan,23,2024-08-11,Active
+682,Company_06190,SMB,Healthcare,Taiwan,25,2024-12-31,Churned
+683,Company_06196,SMB,Manufacturing,Hong Kong,18,2026-01-06,Churned
+684,Company_06203,SMB,Professional Services,Taiwan,38,2025-06-18,Churned
+685,Company_06206,Mid-Market,Financial Services,Japan,127,2025-06-29,Churned
+686,Company_06209,SMB,Manufacturing,Singapore,78,2025-09-04,Churned
+687,Company_06229,SMB,Healthcare,Hong Kong,36,2024-02-20,Churned
+688,Company_06269,Enterprise,Manufacturing,Taiwan,1686,2024-11-15,Active
+689,Company_06270,SMB,Retail,Japan,20,2024-06-11,Churned
+690,Company_06287,SMB,Retail,Singapore,33,2025-02-15,Active
+691,Company_06295,Mid-Market,Financial Services,Taiwan,153,2025-02-03,Active
+692,Company_06305,Mid-Market,Manufacturing,Taiwan,494,2025-07-24,Active
+693,Company_06311,Mid-Market,Technology,Taiwan,318,2024-08-21,Churned
+694,Company_06317,SMB,Retail,Hong Kong,22,2024-12-06,Active
+695,Company_06322,Mid-Market,Professional Services,Taiwan,489,2025-03-12,Active
+696,Company_06339,Mid-Market,Healthcare,Japan,431,2024-07-24,Churned
+697,Company_06356,SMB,Retail,Singapore,67,2024-06-15,Churned
+698,Company_06408,SMB,Financial Services,Taiwan,63,2024-07-13,Active
+699,Company_06409,Mid-Market,Professional Services,Taiwan,171,2025-11-30,Active
+700,Company_06413,SMB,Professional Services,Taiwan,55,2024-11-12,Churned
+701,Company_06418,SMB,Healthcare,Japan,21,2024-09-11,Active
+702,Company_06425,SMB,Healthcare,Taiwan,83,2025-04-03,Active
+703,Company_06430,Mid-Market,Professional Services,Taiwan,333,2026-01-18,Churned
+704,Company_06447,SMB,Healthcare,Taiwan,36,2025-03-24,Churned
+705,Company_06451,SMB,Healthcare,Hong Kong,96,2026-01-25,Churned
+706,Company_06475,Mid-Market,Professional Services,Singapore,151,2024-12-26,Churned
+707,Company_06479,SMB,Technology,Hong Kong,91,2025-12-26,Active
+708,Company_06492,Mid-Market,Manufacturing,Singapore,115,2024-10-16,Churned
+709,Company_06499,SMB,Professional Services,Singapore,28,2025-11-29,Active
+710,Company_06501,SMB,Healthcare,Singapore,91,2024-07-16,Churned
+711,Company_06510,SMB,Healthcare,Taiwan,94,2024-04-18,Active
+712,Company_06533,Mid-Market,Retail,Hong Kong,407,2025-07-31,Active
+713,Company_06542,Enterprise,Retail,Singapore,4737,2024-12-20,Churned
+714,Company_06548,Enterprise,Healthcare,Singapore,2535,2025-10-30,Churned
+715,Company_06552,SMB,Professional Services,Japan,37,2024-01-29,Churned
+716,Company_06562,Mid-Market,Healthcare,Singapore,148,2025-10-06,Churned
+717,Company_06575,SMB,Technology,Japan,28,2024-06-25,Churned
+718,Company_06577,SMB,Healthcare,Japan,65,2024-05-13,Churned
+719,Company_06586,SMB,Manufacturing,Japan,51,2025-02-17,Churned
+720,Company_06601,Mid-Market,Technology,Taiwan,172,2024-11-05,Active
+721,Company_06614,SMB,Retail,Singapore,93,2025-07-10,Churned
+722,Company_06619,SMB,Professional Services,Singapore,74,2025-07-03,Churned
+723,Company_06620,Mid-Market,Professional Services,Japan,148,2025-04-01,Churned
+724,Company_06646,SMB,Financial Services,Japan,10,2025-09-30,Churned
+725,Company_06649,SMB,Technology,Taiwan,17,2024-12-31,Churned
+726,Company_06652,SMB,Retail,Japan,66,2025-08-27,Active
+727,Company_06657,SMB,Retail,Singapore,46,2024-05-28,Churned
+728,Company_06658,SMB,Financial Services,Hong Kong,88,2025-01-10,Active
+729,Company_06666,SMB,Manufacturing,Singapore,79,2025-01-25,Churned
+730,Company_06672,Enterprise,Retail,Taiwan,4994,2025-07-29,Active
+731,Company_06682,Mid-Market,Financial Services,Singapore,438,2024-11-03,Churned
+732,Company_06696,Mid-Market,Financial Services,Taiwan,434,2024-12-22,Active
+733,Company_06701,Enterprise,Professional Services,Singapore,4910,2025-12-19,Active
+734,Company_06705,SMB,Professional Services,Taiwan,71,2025-02-10,Churned
+735,Company_06713,SMB,Retail,Hong Kong,19,2025-09-07,Churned
+736,Company_06725,SMB,Manufacturing,Japan,11,2025-04-30,Churned
+737,Company_06750,Mid-Market,Healthcare,Japan,282,2025-05-13,Churned
+738,Company_06770,Enterprise,Professional Services,Japan,2595,2026-03-02,Active
+739,Company_06793,SMB,Retail,Hong Kong,76,2024-07-27,Churned
+740,Company_06807,SMB,Financial Services,Singapore,47,2024-06-18,Active
+741,Company_06820,SMB,Retail,Singapore,14,2025-07-23,Churned
+742,Company_06830,SMB,Financial Services,Hong Kong,45,2025-02-16,Active
+743,Company_06832,SMB,Technology,Singapore,41,2024-01-24,Churned
+744,Company_06833,SMB,Financial Services,Taiwan,81,2025-06-16,Churned
+745,Company_06834,Mid-Market,Manufacturing,Hong Kong,127,2024-04-26,Active
+746,Company_06835,Enterprise,Technology,Taiwan,969,2024-06-16,Churned
+747,Company_06844,SMB,Professional Services,Hong Kong,79,2024-02-25,Churned
+748,Company_06849,SMB,Financial Services,Japan,58,2025-07-03,Churned
+749,Company_06850,SMB,Technology,Taiwan,62,2025-05-11,Churned
+750,Company_06870,Mid-Market,Retail,Hong Kong,310,2025-07-27,Active
+751,Company_06883,SMB,Healthcare,Hong Kong,52,2024-06-12,Churned
+752,Company_06886,SMB,Technology,Hong Kong,76,2025-06-19,Active
+753,Company_06899,Mid-Market,Retail,Singapore,435,2024-12-03,Churned
+754,Company_06901,SMB,Healthcare,Singapore,19,2025-07-31,Active
+755,Company_06911,SMB,Manufacturing,Japan,50,2024-09-01,Churned
+756,Company_06940,Enterprise,Technology,Japan,2210,2025-02-07,Churned
+757,Company_06941,SMB,Retail,Singapore,89,2024-08-29,Churned
+758,Company_06942,SMB,Healthcare,Hong Kong,41,2024-11-11,Active
+759,Company_06953,Mid-Market,Manufacturing,Singapore,293,2024-10-02,Active
+760,Company_06959,SMB,Professional Services,Hong Kong,29,2024-05-19,Churned
+761,Company_06967,SMB,Professional Services,Hong Kong,28,2025-04-08,Active
+762,Company_06995,SMB,Financial Services,Hong Kong,40,2024-08-18,Churned
+763,Company_07006,SMB,Manufacturing,Taiwan,40,2024-09-22,Active
+764,Company_07008,SMB,Manufacturing,Japan,88,2025-05-22,Churned
+765,Company_07018,Mid-Market,Manufacturing,Hong Kong,207,2025-01-11,Churned
+766,Company_07034,SMB,Financial Services,Japan,59,2024-04-27,Active
+767,Company_07045,SMB,Financial Services,Japan,45,2024-11-24,Active
+768,Company_07050,Mid-Market,Professional Services,Singapore,496,2024-03-17,Churned
+769,Company_07055,Mid-Market,Professional Services,Hong Kong,319,2025-10-14,Churned
+770,Company_07080,Mid-Market,Retail,Singapore,393,2024-03-31,Active
+771,Company_07106,Mid-Market,Financial Services,Singapore,278,2025-04-12,Churned
+772,Company_07113,Enterprise,Financial Services,Singapore,2691,2024-06-20,Active
+773,Company_07116,SMB,Retail,Taiwan,82,2024-08-25,Churned
+774,Company_07138,SMB,Financial Services,Taiwan,97,2025-03-17,Active
+775,Company_07140,Mid-Market,Professional Services,Japan,259,2024-11-24,Churned
+776,Company_07145,Enterprise,Technology,Singapore,4030,2025-09-13,Active
+777,Company_07157,Mid-Market,Manufacturing,Taiwan,284,2025-09-19,Churned
+778,Company_07211,Enterprise,Technology,Singapore,1675,2024-06-02,Churned
+779,Company_07232,Mid-Market,Healthcare,Hong Kong,107,2024-07-05,Active
+780,Company_07235,SMB,Retail,Taiwan,56,2025-09-21,Churned
+781,Company_07278,SMB,Technology,Singapore,48,2025-06-13,Churned
+782,Company_07289,Enterprise,Retail,Taiwan,4784,2025-08-06,Active
+783,Company_07297,Mid-Market,Financial Services,Taiwan,385,2024-07-08,Active
+784,Company_07313,Enterprise,Manufacturing,Taiwan,4792,2025-09-20,Churned
+785,Company_07349,Enterprise,Manufacturing,Singapore,3467,2025-09-24,Active
+786,Company_07360,Enterprise,Healthcare,Taiwan,921,2025-08-27,Active
+787,Company_07377,SMB,Financial Services,Taiwan,69,2024-11-16,Active
+788,Company_07382,SMB,Manufacturing,Taiwan,37,2024-03-24,Churned
+789,Company_07391,Mid-Market,Retail,Japan,176,2025-09-04,Active
+790,Company_07396,Mid-Market,Financial Services,Singapore,288,2025-08-03,Churned
+791,Company_07397,Mid-Market,Professional Services,Taiwan,337,2026-02-12,Active
+792,Company_07398,SMB,Manufacturing,Japan,86,2025-01-13,Active
+793,Company_07402,SMB,Manufacturing,Hong Kong,21,2024-05-02,Churned
+794,Company_07433,SMB,Manufacturing,Hong Kong,62,2024-03-19,Active
+795,Company_07438,Mid-Market,Technology,Taiwan,194,2024-06-09,Active
+796,Company_07440,Mid-Market,Technology,Singapore,438,2025-12-01,Churned
+797,Company_07444,SMB,Technology,Hong Kong,92,2024-12-26,Churned
+798,Company_07446,Mid-Market,Healthcare,Taiwan,417,2024-12-31,Churned
+799,Company_07470,Enterprise,Healthcare,Singapore,966,2025-06-08,Churned
+800,Company_07471,Mid-Market,Technology,Singapore,346,2026-02-03,Churned
+801,Company_07472,Mid-Market,Healthcare,Japan,344,2024-09-28,Churned
+802,Company_07489,SMB,Retail,Japan,31,2026-01-27,Active
+803,Company_07497,SMB,Technology,Taiwan,63,2025-01-27,Churned
+804,Company_07504,SMB,Retail,Japan,87,2025-06-15,Churned
+805,Company_07511,SMB,Technology,Singapore,26,2024-04-11,Churned
+806,Company_07517,SMB,Financial Services,Taiwan,56,2025-04-17,Active
+807,Company_07524,Mid-Market,Manufacturing,Japan,195,2025-04-30,Churned
+808,Company_07531,SMB,Technology,Hong Kong,36,2025-09-09,Churned
+809,Company_07534,Mid-Market,Manufacturing,Taiwan,166,2025-09-13,Churned
+810,Company_07539,SMB,Technology,Singapore,15,2024-11-19,Active
+811,Company_07548,SMB,Technology,Singapore,87,2024-07-17,Churned
+812,Company_07551,Mid-Market,Technology,Taiwan,413,2025-03-06,Churned
+813,Company_07557,Mid-Market,Technology,Taiwan,433,2025-06-12,Churned
+814,Company_07564,Mid-Market,Healthcare,Singapore,307,2024-04-23,Active
+815,Company_07588,SMB,Financial Services,Hong Kong,63,2026-01-17,Churned
+816,Company_07591,SMB,Technology,Taiwan,28,2025-04-19,Churned
+817,Company_07596,SMB,Manufacturing,Singapore,67,2025-01-17,Active
+818,Company_07613,Mid-Market,Technology,Singapore,168,2024-06-13,Churned
+819,Company_07632,SMB,Retail,Singapore,53,2025-06-10,Churned
+820,Company_07636,SMB,Healthcare,Singapore,14,2024-08-15,Churned
+821,Company_07645,Enterprise,Retail,Singapore,4488,2026-02-10,Active
+822,Company_07649,SMB,Professional Services,Singapore,11,2024-07-20,Churned
+823,Company_07661,Enterprise,Healthcare,Singapore,1068,2026-01-16,Churned
+824,Company_07663,Mid-Market,Healthcare,Japan,169,2025-09-06,Churned
+825,Company_07670,SMB,Financial Services,Hong Kong,14,2025-02-12,Churned
+826,Company_07679,Mid-Market,Retail,Hong Kong,106,2025-01-22,Churned
+827,Company_07681,SMB,Retail,Japan,80,2024-07-25,Active
+828,Company_07694,Mid-Market,Manufacturing,Singapore,245,2024-03-01,Churned
+829,Company_07698,Mid-Market,Professional Services,Japan,123,2025-04-06,Churned
+830,Company_07709,SMB,Financial Services,Japan,70,2024-03-12,Active
+831,Company_07721,SMB,Technology,Singapore,56,2025-05-27,Churned
+832,Company_07748,SMB,Technology,Taiwan,76,2024-08-18,Churned
+833,Company_07752,SMB,Healthcare,Japan,75,2025-07-31,Active
+834,Company_07767,Mid-Market,Financial Services,Japan,182,2025-09-19,Churned
+835,Company_07777,Enterprise,Healthcare,Hong Kong,1567,2025-03-18,Churned
+836,Company_07783,Mid-Market,Healthcare,Singapore,174,2025-09-05,Churned
+837,Company_07789,SMB,Manufacturing,Hong Kong,71,2025-03-13,Churned
+838,Company_07794,Enterprise,Manufacturing,Hong Kong,1540,2025-01-19,Active
+839,Company_07835,SMB,Technology,Singapore,96,2025-11-13,Churned
+840,Company_07846,Mid-Market,Manufacturing,Japan,259,2025-01-23,Churned
+841,Company_07864,Enterprise,Professional Services,Singapore,4699,2025-09-10,Active
+842,Company_07865,SMB,Healthcare,Japan,51,2025-08-28,Churned
+843,Company_07867,Mid-Market,Retail,Singapore,403,2024-08-10,Churned
+844,Company_07882,SMB,Manufacturing,Taiwan,88,2024-04-05,Active
+845,Company_07896,SMB,Technology,Taiwan,38,2024-07-27,Churned
+846,Company_07965,SMB,Healthcare,Hong Kong,18,2025-11-20,Active
+847,Company_07975,SMB,Financial Services,Taiwan,73,2025-04-01,Active
+848,Company_07979,Enterprise,Retail,Taiwan,4710,2025-08-03,Active
+849,Company_07983,Enterprise,Retail,Hong Kong,3239,2024-08-16,Churned
+850,Company_07991,Mid-Market,Technology,Singapore,358,2026-02-02,Active
+851,Company_08007,SMB,Healthcare,Singapore,70,2024-08-25,Active
+852,Company_08018,SMB,Professional Services,Taiwan,74,2024-04-05,Churned
+853,Company_08030,Mid-Market,Financial Services,Taiwan,438,2024-12-24,Churned
+854,Company_08035,Mid-Market,Healthcare,Hong Kong,347,2025-10-23,Active
+855,Company_08070,SMB,Professional Services,Japan,36,2025-07-28,Churned
+856,Company_08077,Mid-Market,Healthcare,Japan,239,2025-06-11,Churned
+857,Company_08094,Enterprise,Retail,Hong Kong,935,2024-11-06,Churned
+858,Company_08108,SMB,Manufacturing,Taiwan,54,2025-11-06,Churned
+859,Company_08112,Mid-Market,Professional Services,Hong Kong,219,2024-10-09,Churned
+860,Company_08117,Mid-Market,Financial Services,Singapore,376,2024-08-09,Churned
+861,Company_08118,SMB,Technology,Taiwan,60,2024-10-27,Churned
+862,Company_08141,SMB,Financial Services,Taiwan,71,2025-09-12,Active
+863,Company_08154,SMB,Financial Services,Hong Kong,98,2024-02-11,Churned
+864,Company_08155,Mid-Market,Financial Services,Singapore,306,2025-07-20,Active
+865,Company_08168,Mid-Market,Financial Services,Japan,324,2024-08-05,Active
+866,Company_08172,Enterprise,Healthcare,Taiwan,4232,2026-01-28,Churned
+867,Company_08175,SMB,Healthcare,Hong Kong,11,2025-01-20,Active
+868,Company_08189,Mid-Market,Financial Services,Japan,446,2025-08-26,Churned
+869,Company_08201,SMB,Technology,Hong Kong,34,2024-12-09,Churned
+870,Company_08222,Enterprise,Financial Services,Singapore,4438,2024-10-11,Churned
+871,Company_08226,Mid-Market,Retail,Singapore,422,2025-04-10,Churned
+872,Company_08230,SMB,Financial Services,Taiwan,34,2026-01-03,Churned
+873,Company_08232,SMB,Retail,Hong Kong,66,2025-03-08,Churned
+874,Company_08241,Mid-Market,Professional Services,Singapore,389,2025-06-11,Active
+875,Company_08242,SMB,Manufacturing,Taiwan,61,2025-01-25,Active
+876,Company_08244,SMB,Healthcare,Japan,70,2025-12-03,Churned
+877,Company_08247,SMB,Professional Services,Hong Kong,28,2025-12-22,Active
+878,Company_08259,Mid-Market,Professional Services,Hong Kong,384,2024-05-05,Churned
+879,Company_08263,SMB,Financial Services,Singapore,15,2024-04-05,Churned
+880,Company_08267,Mid-Market,Financial Services,Taiwan,203,2025-07-28,Active
+881,Company_08276,Enterprise,Manufacturing,Hong Kong,3848,2024-09-21,Churned
+882,Company_08287,Mid-Market,Financial Services,Hong Kong,326,2025-01-18,Active
+883,Company_08292,SMB,Retail,Japan,25,2025-03-09,Active
+884,Company_08305,Mid-Market,Healthcare,Taiwan,463,2025-01-27,Churned
+885,Company_08315,SMB,Professional Services,Hong Kong,83,2025-04-06,Active
+886,Company_08335,Enterprise,Retail,Singapore,2555,2026-02-16,Active
+887,Company_08352,SMB,Healthcare,Taiwan,97,2025-08-19,Churned
+888,Company_08356,SMB,Professional Services,Singapore,61,2025-04-07,Churned
+889,Company_08372,Mid-Market,Manufacturing,Hong Kong,479,2024-05-11,Churned
+890,Company_08391,Enterprise,Healthcare,Japan,3524,2025-05-23,Active
+891,Company_08393,SMB,Technology,Singapore,14,2025-05-18,Churned
+892,Company_08394,Mid-Market,Professional Services,Hong Kong,145,2025-07-23,Churned
+893,Company_08401,SMB,Healthcare,Japan,33,2024-04-12,Churned
+894,Company_08403,Mid-Market,Manufacturing,Taiwan,198,2024-04-25,Churned
+895,Company_08409,SMB,Retail,Hong Kong,53,2024-10-11,Churned
+896,Company_08417,Mid-Market,Manufacturing,Singapore,347,2025-02-08,Active
+897,Company_08421,SMB,Healthcare,Hong Kong,77,2024-04-23,Churned
+898,Company_08438,SMB,Manufacturing,Singapore,28,2025-07-05,Active
+899,Company_08454,Enterprise,Retail,Taiwan,1928,2024-12-11,Active
+900,Company_08463,SMB,Healthcare,Singapore,35,2025-12-04,Churned
+901,Company_08470,SMB,Professional Services,Singapore,91,2025-01-03,Churned
+902,Company_08480,Enterprise,Retail,Hong Kong,2726,2025-03-11,Churned
+903,Company_08495,Mid-Market,Manufacturing,Taiwan,413,2025-01-06,Active
+904,Company_08496,Mid-Market,Manufacturing,Hong Kong,478,2024-04-16,Churned
+905,Company_08499,Mid-Market,Technology,Taiwan,336,2024-12-12,Active
+906,Company_08503,SMB,Healthcare,Singapore,14,2025-11-04,Churned
+907,Company_08510,SMB,Professional Services,Japan,79,2025-12-17,Churned
+908,Company_08524,SMB,Financial Services,Taiwan,38,2024-09-06,Churned
+909,Company_08539,Mid-Market,Professional Services,Taiwan,256,2025-03-15,Churned
+910,Company_08551,SMB,Professional Services,Japan,16,2024-10-25,Active
+911,Company_08558,SMB,Healthcare,Hong Kong,65,2024-10-02,Active
+912,Company_08574,Mid-Market,Financial Services,Singapore,177,2025-10-15,Churned
+913,Company_08578,SMB,Healthcare,Hong Kong,58,2024-02-10,Active
+914,Company_08588,SMB,Financial Services,Singapore,28,2024-03-23,Churned
+915,Company_08590,SMB,Financial Services,Taiwan,89,2025-02-19,Active
+916,Company_08597,SMB,Healthcare,Singapore,57,2025-11-22,Active
+917,Company_08604,SMB,Technology,Hong Kong,96,2024-11-27,Churned
+918,Company_08609,SMB,Manufacturing,Hong Kong,39,2025-12-07,Active
+919,Company_08630,Mid-Market,Financial Services,Hong Kong,302,2024-07-21,Active
+920,Company_08634,SMB,Technology,Taiwan,49,2025-12-10,Active
+921,Company_08636,Mid-Market,Financial Services,Hong Kong,258,2026-02-25,Churned
+922,Company_08641,Mid-Market,Retail,Taiwan,137,2024-05-15,Churned
+923,Company_08664,Mid-Market,Manufacturing,Japan,238,2024-06-17,Churned
+924,Company_08667,SMB,Retail,Hong Kong,78,2024-12-29,Churned
+925,Company_08675,Mid-Market,Financial Services,Japan,342,2025-02-28,Churned
+926,Company_08677,Mid-Market,Manufacturing,Japan,350,2026-01-03,Active
+927,Company_08693,Mid-Market,Professional Services,Taiwan,325,2025-09-02,Active
+928,Company_08704,SMB,Professional Services,Singapore,91,2025-12-20,Churned
+929,Company_08711,Mid-Market,Professional Services,Hong Kong,250,2025-07-15,Active
+930,Company_08717,SMB,Professional Services,Singapore,53,2025-01-15,Churned
+931,Company_08718,Enterprise,Manufacturing,Singapore,2757,2025-08-15,Churned
+932,Company_08727,SMB,Financial Services,Japan,25,2025-02-11,Churned
+933,Company_08731,SMB,Technology,Japan,74,2024-09-20,Churned
+934,Company_08740,SMB,Professional Services,Hong Kong,78,2025-01-03,Churned
+935,Company_08745,Mid-Market,Financial Services,Taiwan,216,2024-10-28,Churned
+936,Company_08752,SMB,Manufacturing,Taiwan,58,2024-02-16,Churned
+937,Company_08757,SMB,Technology,Japan,75,2025-08-30,Active
+938,Company_08759,Enterprise,Healthcare,Taiwan,543,2024-10-21,Active
+939,Company_08762,SMB,Healthcare,Singapore,79,2025-09-16,Churned
+940,Company_08765,SMB,Retail,Singapore,84,2024-10-17,Active
+941,Company_08769,Mid-Market,Manufacturing,Japan,369,2025-12-03,Active
+942,Company_08771,SMB,Technology,Taiwan,77,2025-10-30,Churned
+943,Company_08774,SMB,Technology,Singapore,17,2024-02-16,Churned
+944,Company_08790,SMB,Manufacturing,Hong Kong,85,2025-05-19,Active
+945,Company_08792,SMB,Manufacturing,Japan,34,2025-02-26,Churned
+946,Company_08814,Mid-Market,Professional Services,Hong Kong,185,2024-10-03,Active
+947,Company_08817,Enterprise,Healthcare,Taiwan,661,2025-06-10,Active
+948,Company_08842,SMB,Manufacturing,Hong Kong,66,2025-03-08,Churned
+949,Company_08849,Enterprise,Manufacturing,Taiwan,3694,2026-02-11,Active
+950,Company_08850,Mid-Market,Retail,Singapore,245,2024-06-02,Churned
+951,Company_08860,SMB,Professional Services,Singapore,47,2025-05-20,Churned
+952,Company_08863,SMB,Technology,Singapore,77,2025-05-16,Churned
+953,Company_08874,SMB,Professional Services,Singapore,18,2024-12-11,Churned
+954,Company_08875,SMB,Professional Services,Japan,70,2025-05-29,Churned
+955,Company_08882,SMB,Professional Services,Singapore,55,2024-02-18,Active
+956,Company_08884,SMB,Professional Services,Taiwan,55,2024-09-12,Churned
+957,Company_08891,Mid-Market,Financial Services,Japan,166,2024-07-17,Active
+958,Company_08895,SMB,Professional Services,Taiwan,52,2024-03-19,Churned
+959,Company_08902,SMB,Financial Services,Taiwan,39,2025-06-11,Churned
+960,Company_08917,SMB,Technology,Hong Kong,86,2024-04-20,Active
+961,Company_08918,Enterprise,Manufacturing,Hong Kong,1043,2024-11-02,Churned
+962,Company_08921,Mid-Market,Healthcare,Taiwan,420,2026-02-04,Active
+963,Company_08922,SMB,Manufacturing,Singapore,33,2025-04-23,Churned
+964,Company_08925,Mid-Market,Healthcare,Singapore,491,2024-11-09,Active
+965,Company_08929,SMB,Retail,Singapore,54,2025-05-28,Active
+966,Company_08936,SMB,Retail,Hong Kong,51,2025-10-15,Churned
+967,Company_08938,SMB,Technology,Singapore,27,2024-08-04,Churned
+968,Company_08996,Mid-Market,Healthcare,Taiwan,264,2024-06-17,Churned
+969,Company_08999,Mid-Market,Retail,Japan,114,2024-09-04,Churned
+970,Company_09016,Enterprise,Technology,Hong Kong,725,2025-08-27,Active
+971,Company_09017,Enterprise,Healthcare,Taiwan,2076,2024-04-12,Churned
+972,Company_09018,SMB,Technology,Japan,16,2024-07-07,Churned
+973,Company_09028,SMB,Technology,Japan,79,2025-11-10,Churned
+974,Company_09035,Mid-Market,Healthcare,Hong Kong,394,2025-06-13,Active
+975,Company_09048,Enterprise,Professional Services,Japan,4317,2025-03-29,Active
+976,Company_09057,SMB,Healthcare,Hong Kong,35,2025-11-25,Churned
+977,Company_09065,SMB,Technology,Taiwan,70,2025-08-23,Active
+978,Company_09068,Enterprise,Healthcare,Singapore,3855,2024-05-29,Active
+979,Company_09072,SMB,Retail,Japan,16,2026-01-14,Active
+980,Company_09078,Enterprise,Retail,Hong Kong,1929,2025-08-03,Active
+981,Company_09113,Mid-Market,Technology,Taiwan,340,2024-08-21,Churned
+982,Company_09144,SMB,Healthcare,Hong Kong,76,2026-02-09,Active
+983,Company_09150,SMB,Financial Services,Singapore,70,2024-06-02,Churned
+984,Company_09151,Enterprise,Financial Services,Hong Kong,959,2025-01-27,Active
+985,Company_09152,SMB,Professional Services,Singapore,35,2024-07-14,Churned
+986,Company_09160,Mid-Market,Technology,Hong Kong,227,2025-04-05,Active
+987,Company_09180,SMB,Professional Services,Singapore,27,2025-04-16,Churned
+988,Company_09183,Mid-Market,Retail,Japan,158,2024-05-14,Churned
+989,Company_09186,SMB,Healthcare,Hong Kong,92,2024-10-14,Churned
+990,Company_09198,SMB,Financial Services,Japan,53,2025-11-26,Active
+991,Company_09212,SMB,Technology,Hong Kong,74,2025-10-21,Churned
+992,Company_09213,SMB,Technology,Singapore,36,2024-03-19,Churned
+993,Company_09217,SMB,Technology,Hong Kong,90,2024-09-24,Churned
+994,Company_09228,SMB,Professional Services,Taiwan,61,2024-05-15,Churned
+995,Company_09253,SMB,Technology,Hong Kong,36,2024-09-04,Churned
+996,Company_09277,Enterprise,Technology,Taiwan,825,2024-05-29,Churned
+997,Company_09285,Mid-Market,Manufacturing,Taiwan,200,2024-12-30,Active
+998,Company_09287,SMB,Manufacturing,Taiwan,89,2025-02-05,Active
+999,Company_09300,Mid-Market,Retail,Taiwan,164,2025-05-20,Churned
+1000,Company_09307,SMB,Professional Services,Taiwan,75,2024-07-22,Active
+1001,Company_09314,SMB,Retail,Hong Kong,54,2024-08-26,Churned
+1002,Company_09328,Enterprise,Professional Services,Taiwan,4798,2024-08-20,Churned
+1003,Company_09344,Enterprise,Financial Services,Taiwan,4015,2025-06-02,Active
+1004,Company_09345,Enterprise,Technology,Singapore,4312,2024-11-12,Churned
+1005,Company_09349,SMB,Retail,Taiwan,44,2025-08-23,Churned
+1006,Company_09361,Enterprise,Professional Services,Hong Kong,2333,2025-12-13,Churned
+1007,Company_09408,SMB,Professional Services,Singapore,90,2024-01-30,Churned
+1008,Company_09409,SMB,Technology,Singapore,59,2024-09-02,Active
+1009,Company_09411,Enterprise,Technology,Singapore,684,2024-07-08,Churned
+1010,Company_09430,SMB,Technology,Hong Kong,47,2025-07-13,Churned
+1011,Company_09433,Mid-Market,Retail,Hong Kong,357,2025-03-07,Active
+1012,Company_09459,Mid-Market,Retail,Singapore,450,2025-08-01,Churned
+1013,Company_09464,SMB,Retail,Hong Kong,89,2025-06-29,Active
+1014,Company_09486,Mid-Market,Professional Services,Taiwan,371,2025-02-25,Churned
+1015,Company_09488,SMB,Manufacturing,Singapore,76,2025-11-10,Active
+1016,Company_09490,SMB,Retail,Singapore,40,2024-10-31,Churned
+1017,Company_09493,Mid-Market,Professional Services,Taiwan,223,2024-04-26,Active
+1018,Company_09498,SMB,Retail,Japan,60,2025-04-29,Active
+1019,Company_09503,SMB,Technology,Japan,27,2024-06-09,Churned
+1020,Company_09511,SMB,Financial Services,Singapore,80,2024-06-02,Churned
+1021,Company_09513,SMB,Professional Services,Hong Kong,97,2024-12-05,Active
+1022,Company_09528,Mid-Market,Financial Services,Singapore,432,2025-12-26,Active
+1023,Company_09533,SMB,Retail,Hong Kong,24,2025-12-18,Churned
+1024,Company_09534,SMB,Healthcare,Hong Kong,66,2025-06-14,Churned
+1025,Company_09537,SMB,Retail,Hong Kong,50,2024-10-15,Churned
+1026,Company_09539,SMB,Healthcare,Singapore,10,2024-02-29,Churned
+1027,Company_09541,Mid-Market,Retail,Singapore,321,2025-04-14,Churned
+1028,Company_09548,Mid-Market,Technology,Japan,120,2025-11-03,Churned
+1029,Company_09551,Mid-Market,Manufacturing,Japan,452,2025-01-16,Churned
+1030,Company_09558,SMB,Technology,Singapore,85,2025-03-14,Churned
+1031,Company_09576,Mid-Market,Professional Services,Hong Kong,250,2025-05-09,Active
+1032,Company_09611,SMB,Professional Services,Japan,69,2025-03-23,Active
+1033,Company_09627,SMB,Financial Services,Singapore,18,2025-07-26,Churned
+1034,Company_09630,SMB,Healthcare,Singapore,78,2024-05-20,Active
+1035,Company_09653,Enterprise,Healthcare,Japan,4686,2026-01-31,Active
+1036,Company_09663,SMB,Manufacturing,Hong Kong,76,2024-11-24,Active
+1037,Company_09698,SMB,Retail,Singapore,11,2024-05-17,Churned
+1038,Company_09705,SMB,Technology,Hong Kong,96,2025-08-23,Churned
+1039,Company_09719,SMB,Healthcare,Hong Kong,95,2025-10-11,Churned
+1040,Company_09723,SMB,Healthcare,Singapore,59,2024-04-28,Churned
+1041,Company_09734,Enterprise,Retail,Japan,3329,2025-08-18,Churned
+1042,Company_09751,Mid-Market,Professional Services,Taiwan,136,2025-06-23,Churned
+1043,Company_09755,SMB,Manufacturing,Singapore,39,2025-11-15,Churned
+1044,Company_09773,Enterprise,Technology,Japan,1190,2025-01-07,Active
+1045,Company_09777,Enterprise,Manufacturing,Japan,1497,2025-10-26,Active
+1046,Company_09806,SMB,Professional Services,Hong Kong,45,2026-02-01,Active
+1047,Company_09823,SMB,Healthcare,Japan,30,2024-08-13,Active
+1048,Company_09828,SMB,Healthcare,Singapore,82,2024-02-01,Active
+1049,Company_09844,Mid-Market,Technology,Hong Kong,308,2024-04-08,Churned
+1050,Company_09847,Mid-Market,Financial Services,Singapore,329,2025-10-21,Active
+1051,Company_09849,Enterprise,Technology,Singapore,2142,2025-11-02,Churned
+1052,Company_09852,Mid-Market,Technology,Singapore,498,2025-04-28,Churned
+1053,Company_09856,Enterprise,Financial Services,Hong Kong,627,2026-04-02,Active
+1054,Company_09869,SMB,Retail,Japan,67,2024-02-22,Active
+1055,Company_09886,SMB,Retail,Taiwan,42,2025-07-30,Churned
+1056,Company_09891,SMB,Manufacturing,Japan,60,2024-12-10,Active
+1057,Company_09896,SMB,Healthcare,Singapore,80,2024-08-27,Churned
+1058,Company_09917,Mid-Market,Retail,Singapore,472,2025-05-19,Active
+1059,Company_09918,SMB,Retail,Singapore,59,2024-08-29,Active
+1060,Company_09925,Mid-Market,Technology,Japan,478,2024-10-23,Churned
+1061,Company_09934,SMB,Financial Services,Taiwan,36,2024-05-27,Churned
+1062,Company_09935,SMB,Financial Services,Taiwan,78,2024-02-25,Churned
+1063,Company_09941,SMB,Technology,Singapore,58,2026-01-10,Active
+1064,Company_09958,Mid-Market,Professional Services,Hong Kong,251,2025-10-11,Active
+1065,Company_09959,Mid-Market,Manufacturing,Japan,299,2026-01-29,Active
+1066,Company_09989,SMB,Professional Services,Taiwan,19,2025-04-24,Active
+1067,Company_09992,SMB,Manufacturing,Taiwan,17,2025-11-09,Churned
+1068,Company_09994,Mid-Market,Financial Services,Singapore,481,2024-12-29,Churned
